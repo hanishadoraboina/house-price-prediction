@@ -88,7 +88,7 @@ House-Price-Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/House-Price-Prediction.git
+git clone https://github.com/hanishadoraboina/house-price-prediction.git
 ```
 
 Navigate into the project directory

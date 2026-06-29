@@ -79,7 +79,6 @@ House-Price-Prediction/
 ├── House Price Prediction.csv
 ├── House_price_prediction.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ---
@@ -98,11 +97,7 @@ Navigate into the project directory
 cd House-Price-Prediction
 ```
 
-Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
 
 Run the Jupyter Notebook or open the notebook in Google Colab.
 
@@ -157,11 +152,11 @@ Feel free to fork this repository and submit a pull request.
 
 **Hanisha Doraboina**
 
-📧 Email: your-email@example.com
+📧 Email: hanishadoraboina@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/hanisha-doraboina/
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/hanishadoraboina
 
 ---
 
